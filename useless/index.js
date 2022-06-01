@@ -1,0 +1,1 @@
+console.log('useless folder >>>> window.location', window.location)
